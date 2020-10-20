@@ -6,7 +6,7 @@
 //
 
 import SwiftUI
-
+// Твк и не смог, к сожалению, совладать с TextField
 struct ContentView: View {
     @State private var textFieldValueRed = "122"
     @State private var textFieldValueGreen = "122"
